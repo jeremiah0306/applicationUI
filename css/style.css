@@ -1,0 +1,173 @@
+*{
+padding:0;
+margin:0;
+}
+.main_container{
+	width:80%;
+	border:2px solid grey;
+	border-radius:5px;
+	display:flex;
+	margin:0 auto;
+	overflow:hidden;
+	height: 1054px;
+}
+.content_container{
+width:50%;
+margin:40px;	
+
+}
+.content2_container{
+width:40%;	
+margin:40px;
+}
+.sub_container{
+	
+	width:100%;
+	height:47%
+}
+.sub_container img{
+	width:100%;
+	border-radius:5px;
+	
+}
+.list_section ul  {
+	display:flex;
+	gap:2em;
+	margin:0px 0px 16px;
+}
+.list_section ul li{
+	list-style:none;
+	font-family:Segoe UI Symbol;
+			
+}
+.list_section hr{
+	color:blue;
+}
+.review1_section{
+	display:flex;
+	margin:10px;
+	font-family:Segoe UI Symbol;
+			color:grey;
+}
+.review1_section img{
+	width: 25px;
+    height: 25px;
+    border-radius: 21px;
+	border:2px solid;
+}
+.feedback1 {
+	margin:1px 12px 10px;
+}
+.feedback1 p{
+	margin: 21px 0px 17px;
+}
+.feedback2 {
+	margin:1px 12px 10px;
+}
+.feedback2 p{
+	margin: 21px 0px 17px;
+}
+.feedback3 {
+	margin:1px 12px 10px;
+}
+.feedback3 p{
+	margin: 21px 0px 17px;
+}
+.review2_section{
+	display:flex;
+	margin:10px;
+	font-family:Segoe UI Symbol;
+			color:grey;
+}
+.review2_section img{
+	width: 25px;
+    height: 25px;
+    border-radius: 21px;
+	border:2px solid;
+}
+.review3_section{
+	display:flex;
+	margin:10px;
+	font-family:Segoe UI Symbol;
+			color:grey;
+}
+.review3_section img{
+	width: 25px;
+    height: 25px;
+    border-radius: 21px;
+	border:2px solid;
+}
+.hr{
+	margin:5px;
+}
+.heading{
+	margin:0px 0px 28px 0px;
+	font-family:Segoe UI Symbol;
+			
+}
+.btn_section{
+	margin:0px 0px 48px 0px;
+	display:flex;
+	gap:1em;
+}
+.pre button{
+	
+	background-color:#d2d2e0;
+	color:blue;
+	width:145px;
+	border:none;
+	border-radius:5px;
+	height:30px
+}
+.pay button{
+	
+	background-color:blue;
+	color:white;
+	width:145px;
+	border:none;
+	border-radius:5px;
+	height:30px
+}
+.hed h4{
+	margin:15px 0px;
+	font-family:Segoe UI Symbol;
+	
+}
+.led li{
+	margin:0px 18px 13px;
+    font-family: Segoe UI Symbol;
+    color: grey;
+}
+.led hr{
+	margin:2px;
+}
+.License_section{
+	margin:20px 0px 20px 0px;
+		font-family:Segoe UI Symbol;
+				
+}
+.share_section h4{
+	margin:0px 0px 8px 0px;
+	font-family:Segoe UI Symbol;
+}
+.star{
+	margin:0px 0px 18px 0px;
+}
+.sub_heading{
+	margin:0px 0px 28px 0px;
+		font-family:Segoe UI Symbol;
+		color:grey;
+}
+.font_section li{
+margin:0px 0px 13px 0px;
+	
+}
+.act{
+	margin:0px 0px 16px;
+	font-family:Segoe UI Symbol;
+	
+}
+.act hr{
+	margin: 15px 0px 0px;
+	
+}
