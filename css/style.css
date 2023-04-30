@@ -30,6 +30,9 @@ margin:40px;
 	border-radius:5px;
 	
 }
+.list_section{
+	margin:0px 0px 10px;
+}
 .list_section ul  {
 	display:flex;
 	gap:2em;
